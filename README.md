@@ -1,1 +1,1 @@
-# mining-massive-data-sets
+# Stanford CS246
